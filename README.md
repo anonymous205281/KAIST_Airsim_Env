@@ -3,3 +3,6 @@ We provided Airsim Environment based on KAIST map we built. We represented KAIST
 
 This repository is based on last public AirSim release from Microsoft's GitHub. The original AirSim MIT license applies to all native AirSim source files.
 Airsim API is updated as same as [Cosys-Airsim](https://github.com/Cosys-Lab/Cosys-AirSim).
+
+Download "KAIST_Map.tar.gz" at Release page.
+Run the KAISTMap.sh after uncompressing the tar.gz file.
